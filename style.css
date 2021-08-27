@@ -1,0 +1,20 @@
+body{
+    padding-top: 200px;
+    max-width: 500px;
+    margin: auto;
+    background-color:lightyellow;
+}
+label{
+    color: white;
+}
+#resultContainer{
+    color:white;
+    text-align:center;
+    letter-spacing :2px;
+}
+form{
+    background-color: peachpuff;
+    border: 1px solid lightyellow;
+    font-size: 2em;
+    padding-left: 10px;
+}
